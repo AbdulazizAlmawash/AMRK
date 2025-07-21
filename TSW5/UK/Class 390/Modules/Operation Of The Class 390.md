@@ -1,5 +1,5 @@
 ![[Class_390_Header.png]]
-# Legend
+# Cab View
 ![[Class_390.png]]
 - Red: Central Panel
 - Orange: Lights Panel
