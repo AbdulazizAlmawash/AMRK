@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"e546d2d949b06875","type":"text","text":"FRANCE","x":920,"y":-140,"width":400,"height":60,"color":"5"},
+		{"id":"0933dc3f94cd1a99","type":"file","file":"AMRK/TSW5/Locomotives/FR/TGV Duplex/Modules/Operation Of TGV Duplex.md","x":920,"y":-52,"width":400,"height":832},
+		{"id":"918a7dd937822780","type":"text","text":"UNITED KINGDOM","x":1340,"y":-140,"width":400,"height":60,"color":"1"},
+		{"id":"a7ea4ad56b12099a","type":"file","file":"AMRK/TSW5/Locomotives/UK/Class 390/Modules/Operation Of The Class 390.md","x":1340,"y":-52,"width":400,"height":832},
+		{"id":"ad44db72d3aa66f5","type":"file","file":"AMRK/TSW5/Locomotives/UK/Class 801/Modules/Operation Of The Class 801.md","x":1340,"y":820,"width":400,"height":832},
+		{"id":"22b82b2ebe4b507c","type":"text","text":"UNITED STATES","x":1760,"y":-140,"width":400,"height":60,"color":"#1100ff"},
+		{"id":"4748d1c05aa163f2","type":"file","file":"AMRK/TSW5/Locomotives/US/Acela Express/Modules/Operation Of The Acela Express.md","x":1760,"y":-52,"width":400,"height":832},
+		{"id":"372808fcb5d8ea03","type":"text","text":"GERMANY","x":2182,"y":-140,"width":400,"height":60,"color":"2"},
+		{"id":"a2adc238d2ed363c","type":"text","text":"Locomotives","x":920,"y":-440,"width":2080,"height":60},
+		{"id":"09a02d19cb9345d2","type":"file","file":"AMRK/TSW5/Locomotives/GR/BR 1442.1/Modules/Operation Of The BR 1442.1 Talent 2 MD.md","x":2182,"y":-52,"width":400,"height":832},
+		{"id":"8c1d0d18b0d411d1","type":"file","file":"AMRK/TSW5/Locomotives/GR/BR642/Modules/Operating The BR642.md","x":2182,"y":820,"width":400,"height":832},
+		{"id":"d67dc5684771bb50","type":"text","text":"SWITZERLAND","x":2600,"y":-140,"width":400,"height":60},
+		{"id":"8b9d90afc75e7afb","x":2600,"y":-52,"width":400,"height":832,"type":"file","file":"AMRK/TSW5/Locomotives/SW/GE 4-4 II/Modules/Operation Of The GE 4-4 II.md"},
+		{"id":"b1bc76d0da1df8b3","x":1340,"y":1700,"width":400,"height":832,"type":"file","file":"AMRK/TSW5/Locomotives/UK/Class 375/Modules/Operation Of The Class 375.md"}
+	],
+	"edges":[
+		{"id":"150350eef4eb2442","fromNode":"a2adc238d2ed363c","fromSide":"bottom","toNode":"e546d2d949b06875","toSide":"top"},
+		{"id":"0f8128693ff07e9a","fromNode":"a2adc238d2ed363c","fromSide":"bottom","toNode":"918a7dd937822780","toSide":"top"},
+		{"id":"8e1a64e72bc46605","fromNode":"a2adc238d2ed363c","fromSide":"bottom","toNode":"22b82b2ebe4b507c","toSide":"top"},
+		{"id":"9fec8b5df795170e","fromNode":"a2adc238d2ed363c","fromSide":"bottom","toNode":"372808fcb5d8ea03","toSide":"top"},
+		{"id":"4b10f6d1056e8119","fromNode":"a2adc238d2ed363c","fromSide":"bottom","toNode":"d67dc5684771bb50","toSide":"top"}
+	]
+}

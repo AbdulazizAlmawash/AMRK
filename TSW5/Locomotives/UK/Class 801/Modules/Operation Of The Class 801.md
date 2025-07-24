@@ -1,3 +1,11 @@
+---
+Object: Locomotive
+Name: Class 801
+Train Type: High Speed
+Powered by: Electric
+Country: United Kingdom
+Favourite: true
+---
 ![[801_Header.png]]
 
 # Cab View

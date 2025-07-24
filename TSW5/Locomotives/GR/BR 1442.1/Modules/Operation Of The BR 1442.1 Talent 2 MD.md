@@ -1,3 +1,10 @@
+---
+Object: Locomotive
+Name: BR 1442.1 Talent 2 MD
+Train Type: Commuter
+Powered by: Electric
+Country: Germany
+---
 ![[BR1442_Header.png]]
 
 # Cab View

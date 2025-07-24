@@ -1,6 +1,9 @@
 ---
-tags:
-  - commuter
+Object: Locomotive
+Name: Class 375
+Train Type: Commuter
+Powered by: Electric
+Country: United Kingdom
 ---
 ![[375_HEADER.png]]
 

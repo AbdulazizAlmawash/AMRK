@@ -1,3 +1,9 @@
+---
+Object: Locomotive
+Train Type: Undefined
+Powered by: Undefined
+Country: Undefined
+---
 
 
 # Start-Up Procedure

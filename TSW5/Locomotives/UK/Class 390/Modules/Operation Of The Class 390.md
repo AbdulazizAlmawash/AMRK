@@ -1,3 +1,10 @@
+---
+Object: Locomotive
+Name: Class 390
+Train Type: High Speed
+Powered by: Electric
+Country: United Kingdom
+---
 ![[Class_390_Header.png]]
 # Cab View
 ![[Class_390.png]]

@@ -1,3 +1,11 @@
+---
+Object: Locomotive
+Name: TGV Duplex
+Train Type: High Speed
+Powered by: Electric
+Country: France
+Favourite: true
+---
 ![[TGV_Header.png]]
 
 *Note: Some supplementary images may not show the switches/levers in the described position. Reference with caution.*
